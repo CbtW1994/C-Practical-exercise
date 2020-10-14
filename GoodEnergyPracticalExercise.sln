@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodEnergyPracticalExercise", "GoodEnergyPracticalExercise\GoodEnergyPracticalExercise.csproj", "{918BD1F8-B498-4FCC-AFD9-AAF42949E56B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodEnergyPracticalExerciseTests", "GoodEnergyPracticalExerciseTests\GoodEnergyPracticalExerciseTests.csproj", "{F330F05A-F7F8-42CC-890C-DF1407081963}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{918BD1F8-B498-4FCC-AFD9-AAF42949E56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918BD1F8-B498-4FCC-AFD9-AAF42949E56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918BD1F8-B498-4FCC-AFD9-AAF42949E56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F330F05A-F7F8-42CC-890C-DF1407081963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F330F05A-F7F8-42CC-890C-DF1407081963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F330F05A-F7F8-42CC-890C-DF1407081963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F330F05A-F7F8-42CC-890C-DF1407081963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
